@@ -21,3 +21,7 @@ Content-Type: application/json
     "username":"rahul123",
     "password": "rahul@456"
 }
+
+###
+GET http://localhost:3000/user/
+Authorization: bearer eyJhbGci---0ffZUmQLDHYplU8g
